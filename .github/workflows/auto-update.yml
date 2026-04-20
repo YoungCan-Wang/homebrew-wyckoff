@@ -2,7 +2,7 @@ name: Auto-update formula
 
 on:
   schedule:
-    - cron: '17 */6 * * *'
+    - cron: '17 9 */3 * *'
   workflow_dispatch:
 
 permissions:
