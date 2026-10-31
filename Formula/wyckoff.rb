@@ -3,8 +3,8 @@ class Wyckoff < Formula
 
   desc "Wyckoff method quantitative analysis agent for A-shares"
   homepage "https://github.com/YoungCan-Wang/Wyckoff-Analysis"
-  url "https://files.pythonhosted.org/packages/source/y/youngcan-wyckoff-analysis/youngcan_wyckoff_analysis-0.9.471.tar.gz"
-  sha256 "6415a7678995c6fa3b8ff260ea7de59eae287bb3db11839d572802f0b445c0c8"
+  url "https://files.pythonhosted.org/packages/source/y/youngcan-wyckoff-analysis/youngcan_wyckoff_analysis-0.9.479.tar.gz"
+  sha256 "bccb41b35f944831aa4d938dcc45755c61e639927cfb57e2d95ee5aaf59bfb3e"
   license "AGPL-3.0-only"
 
   depends_on "python@3.11"
